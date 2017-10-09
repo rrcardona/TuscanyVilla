@@ -1,0 +1,224 @@
+﻿body {
+    font-family: 'Encode Sans Expanded', sans-serif;
+    padding-top: 0px;
+    background-color:rgb(71, 78, 93);
+}
+/*NAVBAR*/
+nav#navvy.navbar.navbar-static-top{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    color:rgb(71, 78, 93);
+    background-color:rgb(71, 78, 93);
+    background-size: cover;
+}
+#navvy a{
+    color:rgb(255, 255, 255);
+    text-align:right;
+    background-color:rgb(71, 78, 93);
+}
+#navvy a:hover{
+    background-color:transparent;
+}
+/*BANNER*/
+.poolLeft {
+    background-image: url('Images/tuscany-villas-sant-anna.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 348px;
+}
+.mapRight{
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    margin-left: 0px;
+    padding-left: 0px;
+    margin-bottom: 0px;
+    height: auto;
+}
+/*PAGE HEADERS*/
+.pageHeading{
+    text-align:center;
+    color: white;
+}
+.pageHeading2{
+    text-align: center;
+    color: white;
+}
+.pageTitle{
+    background-color:rgb(71, 78, 93);
+    padding-bottom: 50px;
+    padding-top: 50px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+/*LOCATIONS*/
+.layoutOne{
+    background-color: rgb(255, 255, 255);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-top:50px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.locationInfoOne{
+    text-size-adjust:auto;
+    color: rgb(71, 78, 93); 
+}
+.containerTitleOne{
+    color: rgb(71, 78, 93); 
+}
+.locationImgRight{
+    max-height: 275px;
+    padding: 0px;
+    margin: 0px;
+}
+.containerTitleTwo{
+    color: rgb(255, 255, 255); 
+}
+.locationInfoTwo{
+    color: rgb(255, 255, 255);
+    text-size-adjust:auto;
+}
+.locationImgLeft{
+    max-height: 275px;
+    padding: 0px;
+    margin: 0px;
+}
+.layoutTwo{
+    background-color: rgb(71, 78, 93);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-top:50px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.page-header{
+    border-bottom: none;
+}
+.ammenities{
+    background-color: rgb(255, 255, 255);
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.transBox{
+    background-color: rgb(71, 78, 93);
+    opacity: 0.85;
+    max-height: 80px;
+    max-width: 270px;
+    margin-top: 150px;
+    margin-left: 70px;
+}
+.transBox h1{
+    color: rgb(255, 255, 255);
+    padding: 20px;
+    text-align: center;
+}
+.transBox2{
+    background-color: rgb(71, 78, 93);
+    opacity: 0.85;
+    max-height: 90px;
+    max-width: 250px;
+    margin-top: 150px;
+    margin-left: 75px;
+}
+.transBox2 h2{
+    color: rgb(255, 255, 255);
+    padding: 15px;
+    text-align: center;
+}
+.column-left-one {
+    background-image: url('Images/3b-348x348.jpg');
+    min-height: 348px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.column-center-one{
+    text-align: center;
+    color: rgb(71, 78, 93);
+}
+.column-right-one {
+    background-image: url('Images/42-348x348.jpg');
+    min-height: 348px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.column-left-two {
+    text-align: center;
+    color: rgb(71, 78, 93);
+}
+.column-center-two {
+    background-image: url('Images/314-348x348.jpg');
+    min-height: 348px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.column-right-two {
+    text-align: center;
+    color: rgb(71, 78, 93);
+}
+.column-left-three {
+    background-image: url('Images/Villa-Rucellai-Toscani-2812-2-348x348.jpg');
+    min-height: 348px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.column-center-three {
+    text-align: center;
+    color: rgb(71, 78, 93);
+}
+.column-right-three {
+    background-image: url('Images/Villa-Vanna-231-348x348.jpg');
+    min-height: 348px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.carousel{
+    text-align:center;
+    background-color: rgb(255, 255, 255);
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.contact-page{
+   background-color: rgb(255, 255, 255); 
+   padding-top: 100px;
+   padding-bottom: 100px;
+   padding-left: 50px;
+   padding-right: 50px;
+}
+.column-text{
+    color:  rgb(71, 78, 93);
+}
+.page-footer{
+   padding-top: 50px;
+   padding-bottom: 50px;
+}
+.text-footer{
+    text-align:center;
+    color: white;
+}
+.btn-primary {
+    background: rgb(71, 78, 93);
+    border-radius: 0px;
+    outline: none;
+}
+.btn-primary:hover{
+    background-color: silver;
+    outline: none;
+    border: none;
+}
+.btn-primary2 {
+    background: white;
+    border-radius: 0px;
+    outline: none;
+    color: rgb(71, 78, 93);
+}
+.btn-primary2:hover{
+    background-color: silver;
+    outline: none;
+    border: none;
+}
